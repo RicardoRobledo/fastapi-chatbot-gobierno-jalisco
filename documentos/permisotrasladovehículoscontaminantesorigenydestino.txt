@@ -1,0 +1,201 @@
+Permiso para traslado de vehículos contaminantes con origen y destino
+
+Información adicional
+Información útil para realizar este trámite
+Se recomienda al ciudadano que cuando acuda a realizar su trámite ya cuente con un juego de copias de sus documentos
+
+JAL-SETRAN-0126
+Trámite
+
+Información adicional
+Información útil para realizar este trámite
+Se recomienda al ciudadano que cuando acuda a realizar su trámite ya cuente con un juego de copias de sus documentos
+
+Homoclave
+JAL-SETRAN-0126
+
+Tipo de trámite o servicio:
+Permiso
+Dependencia:
+Secretaría de Transporte
+Unidad administrativa:
+Dirección de Multitrámite
+Última modificación:
+14 de marzo de 2024
+Contador de visitas:
+49
+Descripción:
+Te permite la circulación del vehículo automotor cuando el mismo contamina y es necesario llevarlo a afinar, en el territorio nacional, por la vigencia del permiso
+Casos en que se presenta:
+Se otorga cuando un vehículo que contamina es infraccionado o detenido y se requiere trasladar al taller para su afinación
+
+Requisitos
+Nombre del requisito:
+Otro
+¿Cómo se presenta el documento?
+-Original
+-1 Copias simples
+Descripción:
+Tarjeta de circulación vigente, en su defecto presentar comprobante de pago vigente. En caso que la tarjeta de circulación sea de otra entidad federativa con vigencia mayor a un año, además deberá presentar comprobante de pago vigente. En caso de no encontrarse a nombre del solicitante, deberá presentar factura con el endoso a nombre del solicitante, así como comprobante de domicilio, con menos de 90 días de vigencia, a nombre del solicitante o familiar directo (coincida uno de sus apellidos), o en su defecto, el domicilio coincida con el que se tiene registrado en el IFE o INE. De no contar con comprobante a su nombre deberá firmar Constancia de Domicilio otorgada por la Dirección de Multitrámite. Para el caso de vehículos de procedencia extranjera, deberá presentar original y copia del permiso de internación vigente. Si existiera cambio de propietario, además deberá presentar: a) Original y copia de la factura que contenga el endoso correspondiente b) Original y copia de comprobante de domicilio del propietario con vigencia no mayor a 90 días (luz, teléfono, gas, estado de cuenta, etc.) c) Original y copia de constancia de inscripción o documento que acredite la legal estancia en el país, si se tratara de vehículos de procedencia extranjera.
+¿Es necesario alguna firma, validación, certificación, autorización o visto bueno de un tercero?
+No
+¿El requisito solicitado es un trámite que se debe realizar con alguna dependencia gubernamental?
+No
+¿Forma parte del formato?
+Sí
+
+Nombre del requisito:
+Identificación Oficial (IFE, INE o Pasaporte Vigente)
+¿Cómo se presenta el documento?
+Original
+1 Copias simples
+Descripción:
+Identificación oficial con fotografía vigente como IFE, INE, Pasaporte, Licencia de conducir; cédula profesional, cartilla militar. En caso de no ser el interesado, además presentar identificación oficial del propietario y de quién recibe el poder, así como carta poder con ratificación de firmas ante Notario. En caso de empresa o persona moral identificación del apoderado o representante legal, adjuntando acta constitutiva o poder notariado.
+¿Es necesario alguna firma, validación, certificación, autorización o visto bueno de un tercero?
+No
+¿El requisito solicitado es un trámite que se debe realizar con alguna dependencia gubernamental?
+No
+¿Forma parte del formato?
+Sí
+
+Formato
+Nombre del formato:
+Papeleta de solicitud del trámite
+¿El formato se puede enviar de manera electrónica?
+No
+
+Fundamentos jurídicos
+Ámbito:  Estatal
+Tipo de ordenamiento:  Manual
+Nombre de ordenamiento:  Manual de Organización y Procedimientos de la Secretaría de Transporte
+Otro:  TOMO V CAPITULO II SECCIÓN VII
+Regulación aplicable: https://tramites.jalisco.gob.mx/catalogo.jalisco/ciudadania/regulaciones/REG-JAL-03322
+
+Pasos
+1
+Acciones a realizar:
+1. Solicita información y/o permiso provisional para circular
+2. Presenta solicitud de permiso y documentos solicitados
+3. Recibe orden de pago y paga en caja de recaudadora
+4. Recibe comprobante de pago y entrega a la Capturista de la Dirección de Multitrámite
+5. Recibe permiso provisional de circulación
+¿Es posible que se pueda agendar una cita para realizar el trámite?
+No
+
+Fundamentos jurídicos
+Ámbito:  Estatal
+Tipo de ordenamiento:  Manual
+Nombre de ordenamiento:  Manual de Organización y Procedimientos de la Secretaría de Transporte
+Otro:  TOMO V CAPITULO II SECCIÓN VII
+Regulación aplicable: https://tramites.jalisco.gob.mx/catalogo.jalisco/ciudadania/regulaciones/REG-JAL-03322
+
+Costos
+Fundamentos jurídicos
+Tipo de monto:
+Monto fijo
+Costo:
+$71.00 por dos días
+Moneda en la que se realiza el pago:
+Peso
+¿En que momento se realiza el pago?
+Previo a la resolución
+Medios disponibles de pago:
+Recaudadora/Tesorería:
+Referencia:
+La facturación se obtiene al momento de capturar el trámite
+Vigencia del pago:
+1 día
+
+Fundamentos jurídicos
+Ámbito:  Estatal
+Tipo de ordenamiento:  Ley
+Nombre de ordenamiento:  Ley de Ingresos del Estado de Jalisco para el ejercicio fiscal 2024
+Artículo:  23
+Fracción:  IV
+Otro:  Inciso K
+Regulación aplicable: https://tramites.jalisco.gob.mx/catalogo.jalisco/ciudadania/regulaciones/REG-JAL-00403
+
+Plazos
+Plazo máximo
+No aplica
+Observaciones:
+No aplica
+Plazo de prevención
+Plazo con el que cuenta el Sujeto Obligado para prevenir al solicitante:
+No aplica
+Plazo para que el interesado cumpla con la prevención:
+No aplica
+¿Es suficiente cumplir con la entrega de la totalidad de los requisitos, en tiempo y forma, para obtener una resolución favorable de este trámite?
+No
+¿Qué otras condiciones o consideraciones son necesarias?
+Es necesario que el vehículo no cuente con ningún tipo de bloqueo administrativo.
+Criterios de resolución:
+1. El ciudadano entrega la documentación en original y copia.
+2. El servidor público revisa que los documentos sean correctos.
+3. Registra en sistema y otorga el número de facturación para el pago en Recaudadora 005.
+4. Entrega comprobante de pago.
+5. Recibe permiso para circular.
+
+Fundamentos jurídicos
+Ámbito:  Estatal
+Tipo de ordenamiento:  Manual
+Nombre de ordenamiento:  Manual de Organización y Procedimientos de la Secretaría de Transporte
+Otro:  TOMO V CAPITULO II SECCIÓN VII
+Regulación aplicable: https://tramites.jalisco.gob.mx/catalogo.jalisco/ciudadania/regulaciones/REG-JAL-03322
+
+Vigencia
+Vigencia de la resolución
+Vigencia:
+2 días Días naturales
+Tipo de ficta:
+No aplica
+NOTA
+El tipo de ficta determina la manera por defecto en que se dará solución al trámite en caso de que la autoridad responsable no de respuesta en los tiempos establecidos.
+
+Fundamentos jurídicos
+Ámbito:  Estatal
+Tipo de ordenamiento:  Reglamento
+Nombre de ordenamiento:  Reglamento de la Ley de Movilidad y Transporte del Estado de Jalisco
+Artículo:  136
+Fracción:  XIV
+Regulación aplicable: https://tramites.jalisco.gob.mx/catalogo.jalisco/ciudadania/regulaciones/REG-JAL-00316
+
+¿Quién puede solicitarlo?
+¿Quién puede solicitar el trámite?
+Interesado
+Representante legal
+¿En qué caso se debe realizar el trámite o servicio?:
+Se otorga cuando un vehículo que contamina es infraccionado o detenido y se requiere trasladar al taller para su afinación
+El trámite o servicio se realiza cuando una empresa se encuentra en:
+Proceso de cierre
+Proceso de apertura
+Operación
+
+Autoridad responsable de atender quejas y denuncias
+Nombre del responsable:
+Maribel Jorge Martínez
+Rol del funcionario:
+Contacto Oficial
+Cargo del funcionario:
+Directora de Multitrámite
+Email:
+maribel.jorge@jalisco.gob.mx
+Teléfono:
+3338192400
+Extensión:
+17106
+Datos de la oficina responsable del trámite:
+Secretaría de Transporte (Dirección de Multitrámite) Av. Alcalde esquina Circunvalación División del Norte
+
+Conservar información
+¿Este trámite requiere conservar información para fines deacreditación, inspección y verificación con motivo del trámite o servicio?
+Sí
+Acreditación:
+Acreditar con qué documentación se expidió el trámite
+
+Fundamentos jurídicos
+Ámbito:  Estatal
+Tipo de ordenamiento:  Manual
+Nombre de ordenamiento:  Manual de Organización y Procedimientos de la Secretaría de Transporte
+Otro:  TOMO V CAPITULO II SECCIÓN VII
+Regulación aplicable: https://tramites.jalisco.gob.mx/catalogo.jalisco/ciudadania/regulaciones/REG-JAL-03322

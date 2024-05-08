@@ -1,0 +1,200 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 100 !important;
+    font-style: normal !important;
+    background-color: hsl(0, 0%, 100%) !important;
+}
+
+.navbar {
+    background-color: rgb(255, 255, 255) !important;
+}
+
+.procedure-container{
+    background-color: rgb(60, 120, 248);
+    border-radius: 5px;
+    margin-inline: 10px;
+    margin-top: 5px;
+    color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    cursor:pointer;
+}
+
+.procedure-container:hover{
+    background-color: rgb(109, 156, 255);
+}
+
+#chat-button{
+    background-color: hsl(0, 0%, 46%) !important;
+    color: #dbdbdb !important;
+}
+
+hr{
+    margin: 0px !important;
+}
+
+.conversation{
+    overflow-y: auto;
+    margin-bottom: 80px;
+}
+
+.chatbot-message{
+    /*background-color: hsl(0, 0%, 40%) !important;*/
+    background-color: hsl(0, 0%, 100%) !important;
+}
+
+#chatbot-message-content{
+    font-weight: 500 !important;
+}
+
+#chatbot-message-content h6{
+    font-weight: bold !important;
+}
+
+.user-message{
+    background-color: hsl(150, 54%, 58%) !important;
+}
+
+#user-message-content{
+    font-weight: 500 !important;
+}
+
+#user-message-content h6{
+    font-weight: bold !important;
+}
+
+.btn-logout{
+    color: #ffffff;
+    background-color: rgb(23, 164, 211);
+}
+
+.btn-logout:hover{
+    background-color: rgb(70, 178, 214);
+    cursor: pointer;
+}
+
+.input-message-container input{
+    background-color: hsl(0, 0%, 100%) !important;
+    border-top-right-radius: 0 !important;
+    border-bottom-right-radius: 0 !important;
+    color:rgb(0, 0, 0) !important;
+    border-color: hsl(0, 0%, 46%) !important;
+    font-size: 18px !important;
+}
+
+.form-message-container{
+    background-color: hsl(0, 0%, 100%) !important;
+}
+
+.form-message-container button{
+    color: #ffffff;
+    background-color: rgb(23, 164, 211);
+    border: none !important;
+    border-top-right-radius: 5px !important;
+    border-bottom-right-radius: 5px !important;
+}
+
+.form-message-container button:hover{
+    background-color: rgb(70, 178, 214);
+    cursor: pointer;
+}
+
+.container-animacion{   
+    display: grid;
+    place-content: center;
+}
+.cargando{
+    width: 40px;
+    height: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+.pelotas {
+    width: 8px;
+    height: 8px;
+    background-color: #2a4ce2;
+    animation: salto .5s alternate
+    infinite;
+    border-radius: 50%  
+}
+.pelotas:nth-child(2) {
+    animation-delay: .18s;
+}
+.pelotas:nth-child(3) {
+    animation-delay: .37s;
+}
+@keyframes salto {
+    from {
+        transform: scaleX(1.25);
+    }
+    to{
+        transform: 
+        translateY(-5px) scaleX(1);
+    }
+}
+
+@media (max-width: 480px) {
+    .chatbot-message{
+        margin: 0px !important;
+        padding-inline: 20px !important;
+    }
+
+    #chatbot-message-content{
+        flex: 1 !important;
+        padding: 0% !important;
+    }
+
+    .user-message{
+        margin: 0px !important;
+        padding-inline: 20px !important;
+    }
+
+    #user-message-content{
+        flex: 1 !important;
+        padding: 0% !important;
+    }
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+    height: 5px;
+}
+
+::-webkit-scrollbar-track {
+    background: #ffffff;
+}
+
+::-webkit-scrollbar-thumb {
+    background: rgb(189, 189, 189);
+    border-radius: 5px;
+}
+
+.loader-wrapper {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(60, 120, 248);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.loader {
+    border: 16px solid #ffffff; /* Light grey */
+    border-top: 16px solid #3498db; /* Blue */
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    animation: spin 1s linear infinite;
+}
+  
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}

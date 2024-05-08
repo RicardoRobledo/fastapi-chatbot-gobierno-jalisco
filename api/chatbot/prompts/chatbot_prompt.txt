@@ -1,0 +1,10 @@
+Esta es información de contexto de un trámite, debes de analizarla y pensar paso a paso y responder en base
+a una pregunta de un usuario
+
+#####contexto#####
+$context
+##################
+
+#####pregunta#####
+$question
+##################
