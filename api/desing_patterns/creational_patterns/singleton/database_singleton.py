@@ -43,7 +43,9 @@ class DatabaseSingleton():
         This method return all procedures
         """
 
-        return cls.__client.query(Procedure).all()
+        procedures = cls.__client.query(Procedure).all()
+        cls.__client.commit()
+        return procedures
 
 
     @classmethod
@@ -52,4 +54,6 @@ class DatabaseSingleton():
         This method return a procedure
         """
 
-        return cls.__client.query(Procedure).filter_by(name=procedure).first()
+        procedure = cls.__client.query(Procedure).filter_by(name=procedure).first()
+        cls.__client.commit()
+        return procedure
