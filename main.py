@@ -1,3 +1,9 @@
+import sys
+
+__import__('pysqlite3')
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+    
+
 from fastapi import FastAPI
 from contextlib import asynccontextmanager
 from fastapi.middleware.cors import CORSMiddleware
@@ -12,11 +18,7 @@ import api
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     print('startup')
-    
-    import sys
-    __import__('pysqlite3')
-    sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
-    
+
     OpenAISingleton()
     ChromaSingleton()
     DatabaseSingleton()
