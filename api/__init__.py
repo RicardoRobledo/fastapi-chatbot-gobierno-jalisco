@@ -1,5 +1,5 @@
 from .chatbot.controllers.routers import router as chatbot_router
-from .procedures.controlles.routers import router as procedures_router
+from .procedures.controllers.routers import router as procedures_router
 
 from fastapi import APIRouter
 

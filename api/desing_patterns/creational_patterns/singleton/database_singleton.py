@@ -26,7 +26,7 @@ class DatabaseSingleton():
 
         Session = sessionmaker(bind=create_engine(config.DATABASE_URL, echo=True))
 
-        return Session()
+        return Session
 
 
     def __new__(cls, *args, **kwargs):
@@ -41,10 +41,15 @@ class DatabaseSingleton():
     async def get_procedures(cls):
         """
         This method return all procedures
+
+        :return: list of procedures
         """
 
-        procedures = cls.__client.query(Procedure).all()
-        cls.__client.commit()
+        procedures = None
+
+        with cls.__client() as session:
+            procedures = session.query(Procedure).all()
+
         return procedures
 
 
@@ -52,8 +57,13 @@ class DatabaseSingleton():
     async def get_procedure(cls, procedure:str):
         """
         This method return a procedure
+
+        :return: procedure
         """
 
-        procedure = cls.__client.query(Procedure).filter_by(name=procedure).first()
-        cls.__client.commit()
-        return procedure
+        procedure_found = None
+
+        with cls.__client() as session:
+            procedure_found = session.query(Procedure).filter_by(name=procedure).first()
+
+        return procedure_found
