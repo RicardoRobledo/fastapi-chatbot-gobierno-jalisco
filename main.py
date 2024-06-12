@@ -61,6 +61,32 @@ def read_root(request:Request):
     return templates.TemplateResponse('index.html', context={'request': request})
 
 
+# ----------------CSRF TOKEN-----------------
+
+
+#from fastapi_csrf_protect import CsrfProtect
+
+# class CsrfSettings(BaseModel):
+#     secret_key:str = config.SECRET_KEY
+#     cookie_samesite:str = "strict"
+#     cookie_secure:bool = True
+
+# @CsrfProtect.load_config
+# def get_csrf_config():
+#     return CsrfSettings()
+
+# @router.post("/submit")
+# async def submit_data(request:Request, csrf_protect:CsrfProtect=Depends()):
+#     await csrf_protect.validate_csrf(request)
+#     return {'sdsd':'sdsd'}
+
+# @router.get("/csrftoken")
+# async def get_csrf_token(csrf_protect:CsrfProtect=Depends()):
+#     response = Response(status_code=200)
+#     response.set_cookie(key="csrf_token", value=csrf_protect.generate_csrf(), httponly=True, samesite="strict")
+#     return response
+
+
 # -------------------------------------------
 
 
